@@ -10,5 +10,5 @@
 * Dataset: you can see the physical data set in this folder "dataset/traders_vertex.xslx"
 
 ### HMX
-Code: https://dune.com/queries/3322162
+* Code: https://dune.com/queries/3322162
 * Dataset: you can see the physical data set in this folder "dataset/traders_hmx.xslx"

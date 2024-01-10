@@ -12,3 +12,6 @@
 ### HMX
 * Code: https://dune.com/queries/3322162
 * Dataset: you can see the physical data set in this folder "dataset/traders_hmx.xslx"
+
+### NFT Community
+* Link: https://flipsidecrypto.xyz/edit/queries/e3cced65-01d9-48b9-b164-71a2675e3990

@@ -15,3 +15,6 @@
 
 ### NFT Community
 * Link: https://flipsidecrypto.xyz/edit/queries/e3cced65-01d9-48b9-b164-71a2675e3990
+
+### Starknet Bridge
+* link: https://dune.com/queries/3343404

@@ -14,7 +14,13 @@
 * Dataset: you can see the physical data set in this folder "dataset/traders_hmx.xslx"
 
 ### NFT Community
-* Link: https://flipsidecrypto.xyz/edit/queries/e3cced65-01d9-48b9-b164-71a2675e3990
+* Link: https://flipsidecrypto.xyz/Rodolfo-Lima/nft-communities-iIMSul
 
 ### Starknet Bridge
 * link: https://dune.com/queries/3343404
+
+### LProviders (Curve and Uniswap)
+* link: https://flipsidecrypto.xyz/Rodolfo-Lima/nft-communities-iIMSul
+
+### ETH Stakers (Lido and Rocket Pool)
+* link: https://flipsidecrypto.xyz/Rodolfo-Lima/nft-communities-iIMSul

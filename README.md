@@ -31,7 +31,7 @@
 ### LVL
 * https://dune.com/queries/3329599
   
-###  AEEVO
+###  Hyperliquid
 * https://dune.com/queries/3332234
 
 ### AEVO

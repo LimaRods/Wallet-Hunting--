@@ -31,10 +31,10 @@
 ### LVL
 * https://dune.com/queries/3329599
   
-###  Hyperliquid
+###  AEVO
 * https://dune.com/queries/3332234
 
-### AEVO
+### Hyperliquid
 * https://dune.com/queries/3351533
 
 ### NFT Community
